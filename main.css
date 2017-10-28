@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+	font-size: 5vh;
+	line-height: 1.4em;
+}
+
+.page {
+	margin: 2vh auto;
+	padding: 5vh 5vw;
+	width: 80vw;
+}
+
+img {
+	width: 30%;
+	margin: 1vh;
+}
